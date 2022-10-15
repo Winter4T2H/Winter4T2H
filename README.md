@@ -1,14 +1,8 @@
 # Winter4T2H
-```
- The lightnings rush over your side,
- thundering sounds became flash light
- that pierces your soul. Let yourself 
- fall into a rhythm......
- Welcome to the new bright future.
-```
 
 ## Hello
-I'm Winter4T2H.
+You can call me W or Winter or whatever you like.
+I'm from Taiwan.
 Currently working on a website project.
 I'm also a Twitch streamer! You can check out my twitter as well.
 
