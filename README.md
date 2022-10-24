@@ -1,10 +1,10 @@
 # Winter4T2H
 
 ## Hello
-You can call me W or Winter or whatever you like.
-I'm from Taiwan.
-Currently working on a website project.
-I'm also a Twitch streamer! You can check out my twitter as well.
+You can call me W or Winter or whatever you like.<br>
+I'm from Taiwan.<br>
+Currently working on a website project and some various visual-novel related tools.<br>
+I'm also a Twitch streamer! You can check out my twitter as well.<br>
 
 
 ## Contact
