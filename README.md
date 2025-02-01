@@ -1,12 +1,5 @@
 # Winter4T2H
 
-## Hello
-You can call me W or Winter or whatever you like.<br>
-I'm from Taiwan.<br>
-Currently working on a website project and some various visual-novel related tools.<br>
-I'm also a Twitch streamer! I mostly stream video games tho. You can check out my Twitter as well.<br>
-
-
 ## Contact
 - You can reach me on Twitter: [@winter4t2h](https://twitter.com/winter4t2h)
 - Contact me directly through email: [silverstar42.www.ce@gmail.com](silverstar42.www.ce@gmail.com)
